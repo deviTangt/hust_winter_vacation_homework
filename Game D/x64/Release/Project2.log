@@ -1,0 +1,489 @@
+﻿  TESTPP.cpp
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(129,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(130,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(130,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(131,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(132,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(132,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(133,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(134,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(134,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(135,66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(136,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(136,66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(149,36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(151,37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(153,38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(155,35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(411,30): warning C4477: “sprintf_s”: 格式字符串“%+d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  (编译源文件“TESTPP.cpp”)
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(411,30):
+  请考虑在格式字符串中使用“%lld”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(411,30):
+  请考虑在格式字符串中使用“%Id”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(411,30):
+  请考虑在格式字符串中使用“%I64d”
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(421,30): warning C4477: “sprintf_s”: 格式字符串“%+d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  (编译源文件“TESTPP.cpp”)
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(421,30):
+  请考虑在格式字符串中使用“%lld”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(421,30):
+  请考虑在格式字符串中使用“%Id”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(421,30):
+  请考虑在格式字符串中使用“%I64d”
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(460,35): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(461,35): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(477,26): warning C4477: “sprintf_s”: 格式字符串“%+d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  (编译源文件“TESTPP.cpp”)
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(477,26):
+  请考虑在格式字符串中使用“%lld”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(477,26):
+  请考虑在格式字符串中使用“%Id”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(477,26):
+  请考虑在格式字符串中使用“%I64d”
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(485,26): warning C4477: “sprintf_s”: 格式字符串“%+d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  (编译源文件“TESTPP.cpp”)
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(485,26):
+  请考虑在格式字符串中使用“%lld”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(485,26):
+  请考虑在格式字符串中使用“%Id”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\MyLibrary.hpp(485,26):
+  请考虑在格式字符串中使用“%I64d”
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(121,99): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(128,14): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  (编译源文件“TESTPP.cpp”)
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(128,14):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(132,15): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  (编译源文件“TESTPP.cpp”)
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(132,15):
+  请考虑在格式字符串中使用“%lld”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(132,15):
+  请考虑在格式字符串中使用“%Id”
+  C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(132,15):
+  请考虑在格式字符串中使用“%I64d”
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(146,5): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(146,62): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(147,10): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(147,67): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(148,10): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(148,67): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(149,10): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(149,67): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(150,37): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(151,37): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(152,37): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(153,37): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(182,104): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(222,40): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(226,39): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(233,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(237,39): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(268,32): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(268,27): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(275,33): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(275,28): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(282,29): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(289,33): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(289,28): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(305,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(310,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(343,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(348,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(353,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(358,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(363,101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(364,101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(389,19): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(444,68): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(445,46): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(446,46): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(447,46): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(449,15): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(465,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(474,37): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(474,33): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(475,17): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(490,17): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(504,49): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(514,18): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(526,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(535,17): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\Sprite_handle.hpp(586,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(77,19): warning C4566: 由通用字符名称“\u1555”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(77,19): warning C4566: 由通用字符名称“\u25E0”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(77,19): warning C4566: 由通用字符名称“\u06BC”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(77,19): warning C4566: 由通用字符名称“\u1557”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(78,19): warning C4566: 由通用字符名称“\u30FB”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(78,19): warning C4566: 由通用字符名称“\u200B”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(79,19): warning C4566: 由通用字符名称“\u3141”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(79,19): warning C4566: 由通用字符名称“\uC2B4”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(80,19): warning C4566: 由通用字符名称“\uFE0E”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(80,19): warning C4566: 由通用字符名称“\u141B”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(81,19): warning C4566: 由通用字符名称“\u273F”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\u0E51”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\u0300”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\u3142”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\u0301”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\uFF89”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\u27B9”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(82,19): warning C4566: 由通用字符名称“\u2661”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(83,19): warning C4566: 由通用字符名称“\u035F”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(83,19): warning C4566: 由通用字符名称“\u035E”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(83,19): warning C4566: 由通用字符名称“\uFF8D”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(83,19): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(83,19): warning C4566: 由通用字符名称“\uFF89”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(84,19): warning C4566: 由通用字符名称“\u11C2”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(85,19): warning C4566: 由通用字符名称“\u21C0”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(85,19): warning C4566: 由通用字符名称“\u2038”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(85,19): warning C4566: 由通用字符名称“\u21BC”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(86,19): warning C4566: 由通用字符名称“\u0E51”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(86,19): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(86,19): warning C4566: 由通用字符名称“\u030C”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(86,19): warning C4566: 由通用字符名称“\u0311”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(86,19): warning C4566: 由通用字符名称“\u02C0”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(86,19): warning C4566: 由通用字符名称“\u0323”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\text_handle.hpp(248,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(234,52): warning C4566: 由通用字符名称“\u0254”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(234,52): warning C4566: 由通用字符名称“\u02C6”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(234,52): warning C4566: 由通用字符名称“\u2323”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(238,52): warning C4566: 由通用字符名称“\u201E”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(238,52): warning C4566: 由通用字符名称“\u0CA1”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(723,53): warning C4566: 由通用字符名称“\u208D”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(723,53): warning C4566: 由通用字符名称“\u02C4”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(723,53): warning C4566: 由通用字符名称“\u0348”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(723,53): warning C4566: 由通用字符名称“\u0F1D”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(723,53): warning C4566: 由通用字符名称“\u208E”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(723,53): warning C4566: 由通用字符名称“\u25DE”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(723,53): warning C4566: 由通用字符名称“\u0311”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(738,53): warning C4566: 由通用字符名称“\u02C3”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(738,53): warning C4566: 由通用字符名称“\u2311”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(738,53): warning C4566: 由通用字符名称“\u02C2”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(738,53): warning C4566: 由通用字符名称“\u0D03”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(757,53): warning C4566: 由通用字符名称“\u2313”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(757,53): warning C4566: 由通用字符名称“\u203F”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(766,53): warning C4566: 由通用字符名称“\u25E1”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(776,53): warning C4566: 由通用字符名称“\u0E07”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(776,53): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(776,53): warning C4566: 由通用字符名称“\u0300”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(776,53): warning C4566: 由通用字符名称“\u0301”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(789,53): warning C4566: 由通用字符名称“\u0295”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(789,53): warning C4566: 由通用字符名称“\u1D54”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(789,53): warning C4566: 由通用字符名称“\u1D25”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(789,53): warning C4566: 由通用字符名称“\u0294”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\u0E51”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\u0300”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\u3142”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\u0301”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\uFF89”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\u27B9”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(798,53): warning C4566: 由通用字符名称“\u2661”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(801,53): warning C4566: 由通用字符名称“\u1555”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(801,53): warning C4566: 由通用字符名称“\u25E0”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(801,53): warning C4566: 由通用字符名称“\u06BC”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\assets\include\story_collection.hpp(801,53): warning C4566: 由通用字符名称“\u1557”表示的字符不能在当前代码页(936)中表示出来
+  (编译源文件“TESTPP.cpp”)
+  
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(57,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(202,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(210,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(218,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(233,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(244,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(254,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(263,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(272,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Exercise Program\C ++ EasyX\Game D\TESTPP.cpp(292,16): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1311 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project2.vcxproj -> C:\Exercise Program\C ++ EasyX\Game D\x64\Release\Game D.exe
